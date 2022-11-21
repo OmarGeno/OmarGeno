@@ -28,4 +28,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-al-taha-4078781b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-al-taha-4078781b4/" height="30" width="40" /></a>
 </p>
-# My website: http://omar-altaha.com/
+<h1>My website: http://omar-altaha.com/</h1>
