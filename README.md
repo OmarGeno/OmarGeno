@@ -10,7 +10,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=omargeno&label=Profile%20views&color=0e75b6&style=flat" alt="omargeno" /> </p>
 
-- 🌱 I’m currently learning **PHP and React**
+- 🌱 I’m currently learning **PHP, React and Flutter**
 
 - 📫 How to reach me **omar.altaha11@gmail.com**
 
