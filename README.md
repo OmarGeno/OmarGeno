@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.digitalsolutionservices.com](https://www.digitalsolutionservices.com/img/services/web%20development.gi)/img/services/web%20development.gif)](https://github.com/OmarGeno)
+[![MasterHead]([https://www.digitalsolutionservices.com](https://www.digitalsolutionservices.com/img/services/web%20development.gif)/img/services/web%20development.gif)](https://github.com/OmarGeno)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
