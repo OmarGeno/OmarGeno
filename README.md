@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Express.ts, Svelte, Flutter and Anulgar.ts**
 
-- 👨‍💻 All of my projects are available at [https://omar-altaha.web.app/](https://omar-altaha.web.app/)
+- 👨‍💻 All of my projects are available at [Omar Al-Taha portofolio](https://omar-altaha.sharp-devs.com/)
 
 - 📫 How to reach me **omar.altaha11@gmail.com**
 
