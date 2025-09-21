@@ -14,6 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [Omar Al-Taha portofolio](https://omar-altaha.sharp-devs.com/)
 
+- 🌐 Check [Sharp Devs](https://sharp-devs.com/) for more information about the team I work on and our services.  
+
 - 📫 How to reach me **omar.altaha11@gmail.com**
 
 
