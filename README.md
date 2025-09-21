@@ -1,8 +1,8 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/OmarGeno)
+[![MasterHead]([https://www.digitalsolutionservices.com](https://www.digitalsolutionservices.com/img/services/web%20development.gi)/img/services/web%20development.gif)](https://github.com/OmarGeno)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<h1 align="center">Hi 👋, I'm Omar</h1>
+<h1 align="center">Hi 👋, I'm Omar</h1>w
 <h3 align="center">A passionate web developer from Romania</h3>
 
 
@@ -10,7 +10,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=omargeno&label=Profile%20views&color=0e75b6&style=flat" alt="omargeno" /> </p>
 
-- 🌱 I’m currently learning **Express.ts, Svelte, Flutter and Anulgar.ts**
+- 👨‍💻 I’m currently working with **Express.ts, Anulgar.ts**
+
+- 🌱 I’m currently learning **ASP.NET core and Flutter**
 
 - 👨‍💻 All of my projects are available at [Omar Al-Taha portofolio](https://omar-altaha.sharp-devs.com/)
 
